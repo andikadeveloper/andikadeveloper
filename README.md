@@ -26,15 +26,15 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Android(Kotlin), Flutter, Spring Boot(Java)**
+- 🔭 I’m currently working on **Mobile(Android Native, Flutter), Java(Spring Boot), Fullstack(React JS and NodeJS), DotNet**
 
-- 🌱 I’m currently learning **Fullstack(React JS and NodeJS), MongoDB, DotNet, Supabase**
+- 🌱 I’m currently learning **DevOps, System Design, Solution Architect**
 
-- ☁️ I've keen interest in Mobile Development. So,I'm learning **Android and Flutter**
+- ☁️ I've keen interest in Solution Architect. So,I'm learning **System Design**
 
-- 📝 I regularly write articles on [Linkedin](https://www.linkedin.com/in/andikadeveloper/)
+- 📝 I regularly write articles on [Linkedin](https://www.linkedin.com/in/andikadeveloper/) and make a content on Instagram [Instagram](https://www.instagram.com/andikadeveloper)
 
-- 💬 Ask me about **Android, Flutter, React JS, NodeJS, MongoDB**
+- 💬 Ask me about **Android, Flutter, React JS, NodeJS, DevOps, System Design**
 
 - 📫 Feel free to reach me out **mandikadev@gmail.com**
 <!--Intro end-->
