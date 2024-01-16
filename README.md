@@ -20,7 +20,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Give me something difficult, I will learn</h2></summary>
+    <summary><h2 style="display: inline-block">Give me the most difficult thing, I will learn</h2></summary>
   </ul>
 </div>
 
