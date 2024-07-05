@@ -35,7 +35,7 @@
 
 <!--Intro start-->
 # About me
-- 🔭 I’m currently working on **Mobile(Android Native, Flutter), Java(Spring Boot), Fullstack(React JS and NodeJS), DotNet**
+- 🔭 I’m currently working as a Software Engineer in Indonesia
 
 - 🌱 I’m currently learning **DevOps, System Design, Solution Architect**
 
@@ -43,7 +43,7 @@
 
 - 📝 I regularly write articles on [Linkedin](https://www.linkedin.com/in/andikadeveloper/) and make a content on Instagram [Instagram](https://www.instagram.com/andikadeveloper)
 
-- 💬 Ask me about **Android, Flutter, React JS, NodeJS, DevOps, System Design**
+- 💬 Ask me about anything about **Software Engineering**
 
 - 📫 Feel free to reach me out **mandikadev@gmail.com**
 <!--Intro end-->
