@@ -26,9 +26,9 @@
 <!-- Statistics -->
 <p>
   <a href="https://github.com/andikadeveloper">
-    <img width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=andikadeveloper&theme=gruvbox&hide_border=true">
-    <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andikadeveloper&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="andikadeveloper :: overall Top Langs">
-    <img width="33%" src="https://github-readme-stats.vercel.app/api?username=andikadeveloper&show_icons=true&theme=gruvbox&hide_border=true">
+    <img width="30%" src="https://github-readme-streak-stats.herokuapp.com/?user=andikadeveloper&theme=gruvbox&hide_border=true">
+    <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andikadeveloper&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="andikadeveloper :: overall Top Langs">
+    <img width="30%" src="https://github-readme-stats.vercel.app/api?username=andikadeveloper&show_icons=true&theme=gruvbox&hide_border=true">
   </a>
 </p>
 
