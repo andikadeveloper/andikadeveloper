@@ -12,8 +12,7 @@
 <!--- Snake Animation -->
 <div align="center">
   <a href="https://github.com/andikadeveloper">
-    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-         alt="snake" />
+    <img src="/resources/grid-snake.svg" alt="snake" />
   </a>
 </div>
 
